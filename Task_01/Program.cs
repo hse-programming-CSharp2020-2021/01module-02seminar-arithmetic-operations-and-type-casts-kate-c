@@ -30,6 +30,7 @@ namespace Task_01 {
 	class Program {
 		static void Main(string[] args) {
 			// TODO : Сменить локаль на "ru-RU". 
+            // ля ля ля ля ля
 
 			double x;
 			// Ввод данных. 
