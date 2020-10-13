@@ -25,7 +25,7 @@ namespace Task_02 {
 		static void Main(string[] args) {
 			int p;
 			// TODO : Реализовать ввод целочисленного значения.
-			p =;
+			p = 1;
 
 			// TODO : Посчиать и вывести результат.
 		}
