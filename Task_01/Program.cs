@@ -42,11 +42,13 @@ namespace Task_01 {
 		}
 
 		static double Function(double x) {
-			// TODO : Реализовать вычисление функции F(x).
+            // TODO : Реализовать вычисление функции F(x).
+            return 1;
 		}
 
 		static double myPow(double x, int pow) {
-			// TODO : Реализовать быстрое возведение в степень.
+            // TODO : Реализовать быстрое возведение в степень.
+            return 2;
 		}
 	}
 }
