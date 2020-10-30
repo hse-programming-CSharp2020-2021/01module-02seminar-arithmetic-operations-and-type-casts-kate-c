@@ -25,6 +25,10 @@
  * --------------------
  * 
  * Корни выводятся в отдельных строках. Если нет вещественных вывести сообщение "complex roots"
+ * gbdfgb
+ * dfgdfgbd
+ * dfghdfbhdf
+ * dfhbd
  */
 
 using System;
