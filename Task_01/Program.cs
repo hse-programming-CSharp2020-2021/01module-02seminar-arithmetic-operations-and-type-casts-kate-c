@@ -31,6 +31,7 @@ namespace Task_01 {
 		static void Main(string[] args) {
 			// TODO : Сменить локаль на "ru-RU". 
             // ля ля ля ля ля
+            // fbfdb
 
 			double x;
 			// Ввод данных. 
