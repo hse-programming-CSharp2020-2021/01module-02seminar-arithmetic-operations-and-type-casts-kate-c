@@ -35,6 +35,9 @@ namespace Task_01 {
             // jhhjhv
             // jhghj
 
+            // i am here
+            // from mac
+
 			double x;
 			// Ввод данных. 
 			x = double.Parse(Console.ReadLine());
