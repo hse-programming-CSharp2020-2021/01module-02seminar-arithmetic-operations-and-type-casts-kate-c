@@ -46,6 +46,7 @@ namespace Task_05 {
 			string result = ;
 
 			Console.WriteLine(result);
+            // fdfvdv
 		}
 
 		static double Sqare(double a, double b, double c) {
