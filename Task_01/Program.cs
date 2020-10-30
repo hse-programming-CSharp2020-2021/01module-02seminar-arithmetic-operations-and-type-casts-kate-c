@@ -32,6 +32,8 @@ namespace Task_01 {
 			// TODO : Сменить локаль на "ru-RU". 
             // ля ля ля ля ля
             // fbfdb
+            // jhhjhv
+            // jhghj
 
 			double x;
 			// Ввод данных. 
@@ -39,6 +41,8 @@ namespace Task_01 {
 
 			// Вычисление и вывод данных.
 			Console.WriteLine($"{Function(x):f2}");
+            // jhghj
+            ///mnbjbj
 
 		}
 

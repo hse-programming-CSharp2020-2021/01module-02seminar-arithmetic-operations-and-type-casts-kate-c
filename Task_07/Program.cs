@@ -31,6 +31,7 @@ namespace Task_07 {
 	class Program {
 		static void Main(string[] args) {
 			// TODO : Сменить локаль на "ru-RU". 
+            // jhghhjv
 
 			double x;
 			// TODO : Считать вещественную переменную.
