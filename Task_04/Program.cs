@@ -24,7 +24,8 @@ namespace Task_4 {
 	class Program {
 		static void Main(string[] args) {
 			int x;
-			// TODO : Считать целочисленное значение.
+			// Hi!
+            // Bye!
 
 			// TODO : Вычислить значение и вывести.
 			Console.WriteLine(ReverseNumber(x));
